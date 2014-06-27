@@ -1,4 +1,4 @@
-Hackinjg EdgeFest 2014 - Tic Tac Toe
+Hacking EdgeFest 2014 - Tic Tac Toe
 ====================================
 
 * Execution Pre-requisite : 
